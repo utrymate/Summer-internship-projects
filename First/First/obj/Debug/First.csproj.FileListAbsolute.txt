@@ -1,0 +1,18 @@
+c:\users\ggv2mc\documents\visual studio 2015\Projects\First\First\bin\Debug\First.exe.config
+c:\users\ggv2mc\documents\visual studio 2015\Projects\First\First\bin\Debug\First.exe
+c:\users\ggv2mc\documents\visual studio 2015\Projects\First\First\bin\Debug\First.pdb
+c:\users\ggv2mc\documents\visual studio 2015\Projects\First\First\obj\Debug\First.csprojResolveAssemblyReference.cache
+c:\users\ggv2mc\documents\visual studio 2015\Projects\First\First\obj\Debug\First.exe
+c:\users\ggv2mc\documents\visual studio 2015\Projects\First\First\obj\Debug\First.pdb
+U:\Csharp\First\First\bin\Debug\First.exe.config
+U:\Csharp\First\First\obj\Debug\First.exe
+U:\Csharp\First\First\obj\Debug\First.pdb
+U:\Csharp\First\First\bin\Debug\First.exe
+U:\Csharp\First\First\bin\Debug\First.pdb
+U:\Csharp\First\First\obj\Debug\First.csprojResolveAssemblyReference.cache
+E:\1etem\Szakmai gyak\Csharp\First\First\bin\Debug\First.exe.config
+E:\1etem\Szakmai gyak\Csharp\First\First\bin\Debug\First.exe
+E:\1etem\Szakmai gyak\Csharp\First\First\bin\Debug\First.pdb
+E:\1etem\Szakmai gyak\Csharp\First\First\obj\Debug\First.csprojAssemblyReference.cache
+E:\1etem\Szakmai gyak\Csharp\First\First\obj\Debug\First.exe
+E:\1etem\Szakmai gyak\Csharp\First\First\obj\Debug\First.pdb
