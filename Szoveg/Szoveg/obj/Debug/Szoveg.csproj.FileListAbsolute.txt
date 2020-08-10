@@ -1,0 +1,15 @@
+c:\users\ggv2mc\documents\visual studio 2015\Projects\Szoveg\Szoveg\bin\Debug\Szoveg.exe.config
+c:\users\ggv2mc\documents\visual studio 2015\Projects\Szoveg\Szoveg\bin\Debug\Szoveg.exe
+c:\users\ggv2mc\documents\visual studio 2015\Projects\Szoveg\Szoveg\bin\Debug\Szoveg.pdb
+c:\users\ggv2mc\documents\visual studio 2015\Projects\Szoveg\Szoveg\obj\Debug\Szoveg.Form1.resources
+c:\users\ggv2mc\documents\visual studio 2015\Projects\Szoveg\Szoveg\obj\Debug\Szoveg.Properties.Resources.resources
+c:\users\ggv2mc\documents\visual studio 2015\Projects\Szoveg\Szoveg\obj\Debug\Szoveg.csproj.GenerateResource.Cache
+c:\users\ggv2mc\documents\visual studio 2015\Projects\Szoveg\Szoveg\obj\Debug\Szoveg.exe
+c:\users\ggv2mc\documents\visual studio 2015\Projects\Szoveg\Szoveg\obj\Debug\Szoveg.pdb
+c:\users\ggv2mc\documents\visual studio 2015\Projects\Szoveg\Szoveg\obj\Debug\Szoveg.csprojResolveAssemblyReference.cache
+E:\1etem\Szakmai gyak\Csharp\Szoveg\Szoveg\obj\Debug\Szoveg.csprojAssemblyReference.cache
+E:\1etem\Szakmai gyak\Csharp\Szoveg\Szoveg\obj\Debug\Szoveg.Form1.resources
+E:\1etem\Szakmai gyak\Csharp\Szoveg\Szoveg\obj\Debug\Szoveg.Properties.Resources.resources
+E:\1etem\Szakmai gyak\Csharp\Szoveg\Szoveg\obj\Debug\Szoveg.csproj.GenerateResource.cache
+E:\1etem\Szakmai gyak\Csharp\Szoveg\Szoveg\obj\Debug\Szoveg.exe
+E:\1etem\Szakmai gyak\Csharp\Szoveg\Szoveg\obj\Debug\Szoveg.pdb
